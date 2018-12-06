@@ -1,0 +1,54 @@
+body {
+    background-color: royalblue;
+    font-size: 40px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(-90deg, royalblue, black);
+    
+}
+
+.jumbotron {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: gray;
+    color: darkblue;
+    
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+.specialfont {
+    font-family: Pacifico;
+}
+.container {
+    border-style: solid;
+    border-color: yellow;
+
+}
+
+#Royals{
+    border-style: double;
+    border-color: black;
+}
+.img{
+    padding: 40px;
+}
+.col-md-6 {
+    border-style: solid;
+    border-color: yellow;
+}
+
+.row {
+    padding: 10px;
+}
+/* 
+#picture {
+    width: 200px;
+    height: 200px;
+    
+    
+    
+} */
